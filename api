@@ -1,0 +1,11 @@
+API Key Created
+Endpoint:
+https://10.60.132.58/v3
+Access Key (username):
+token-7sj85
+Secret Key (password):
+dg62jd4xps9hb4wxpqkm64k8tkth9hlbt89h7phj5q4x8xx45szbr6
+Access Key and Secret Key can be sent as the username and password for HTTP Basic auth to authorize requests. You can also combine them to use as a Bearer token:
+
+Bearer Token:
+token-7sj85:dg62jd4xps9hb4wxpqkm64k8tkth9hlbt89h7phj5q4x8xx45szbr6
